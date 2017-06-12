@@ -1,1 +1,4 @@
 # Restaurant-Menu-Deep-Learning
+The United States boasts a wide variety of cuisine owing to the rich tourism and a large immigrant population. The categories and pictures of food on menu maintained at the restaurants, regardless what kind of cuisines, have a direct impact on customers’ choices . 
+
+The objective of this research is to build a classification model which predicts the popularity of the restaurants in United States. Also, the research provides insights in the distribution of menu pictures, customer reviews, restaurants, cuisine categories, grades etc. Various big data tools, including MongoDB, Cloudera, Google Big Query, with APIs, Decision Trees, Neural Networks, Ensembles models, are used to compare and find best results.  In the end of this paper, suggestions to restaurant owners for online marketing strategy will be provided.
