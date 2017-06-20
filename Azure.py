@@ -1,4 +1,5 @@
 ########### Python 3.2 #############
+####Microsoft Azure API - Learning restaurant picture content#######
 import http.client, urllib.request, urllib.parse, urllib.error, base64
 
 import json
